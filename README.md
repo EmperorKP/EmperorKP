@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Prasath</h1>
 <h3 align="center">A passionate full Stack developer</h3>
 
-- 🌱 I’m currently learning **MERN , REACT**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **krishnaprasath741@gmail.com**
 

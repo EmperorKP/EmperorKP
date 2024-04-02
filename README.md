@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krishna Prasath</h1>
 <h3 align="center">A passionate full Stack developer</h3>
 
-- 🌱 I’m currently learning **MERN & DSA**
+- 🌱 I'm currently exploring both the **MERN stack** (MongoDB, Express, React, Node.js) and the **T3 stack** (Next.js, TypeScript, 
+     Tailwind CSS) while solidifying my knowledge of Data Structures and Algorithms (DSA).
+
 
 - 📫 How to reach me **krishnaprasath741@gmail.com**
 
